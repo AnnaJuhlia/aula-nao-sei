@@ -59,6 +59,7 @@ flex-wrap: wrap;
     color: var(--destaque);
     background-color: var(--cartao-verso);
     transform: rotateY(180deg);
+    border: 2x solid var(--destaque);
 }
 .cartao:hover .conteudo-cartao{
 transform:rotateY(180deg);
