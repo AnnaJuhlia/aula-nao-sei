@@ -1,4 +1,4 @@
-function criaCartao(categoria, pergunta, resposta){
+function criaCartao(categoria, pergunta, resposta) {
 let container = document.getElementById('container');
 let cartao = document.createElement('article');
 cartao.className = 'cartao';
@@ -9,7 +9,7 @@ cartao.innerHTML = `
         <p>${pergunta}</p>
     </div>
     <div class="resposta-cartao">
-        <p>resposta</p>
+        <p>${resposta}</p>
     </div>
 </div>
 `

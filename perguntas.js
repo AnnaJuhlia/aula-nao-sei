@@ -1,7 +1,7 @@
 criaCartao(
     'História',
     'Quais foram os estados que realizaram a política do Café com Leite?',
-    'São Paulo e Minas Gerais')
+    'São Paulo e Minas Gerais' )
     
     criaCartao(
     'História',
