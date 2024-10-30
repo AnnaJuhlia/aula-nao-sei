@@ -15,7 +15,7 @@ cartao.innerHTML = `
 `
 let respostaEstaVisivel = false;
 function viracartao (){
-respostaEstaVdisivel = !respostaEstaVisivel;
+respostaEstaVisivel = !respostaEstaVisivel;
 cartao.classList.toggle('active', respostaEstaVisivel);
 }
 cartao.addEventListener('click', viracartao);
