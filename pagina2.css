@@ -84,6 +84,7 @@ transform:rotateY(180deg);
     background-color: var(--cartao-frente);
     padding: 40px;
     box-shadow: 5px 5px 25px var(--preto);
+    cursor: pointer;
 }
 .cartao:hover{
     transform: scale(1.04);
