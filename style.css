@@ -7,6 +7,10 @@
     --branco:#ffffff;
 }
 body{background-color: var(--fundo);}
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
 
 footer{
     position: fixed;
