@@ -61,7 +61,7 @@ flex-wrap: wrap;
     transform: rotateY(180deg);
     border: 2x solid var(--destaque);
 }
-.cartao.active.conteudo-cartao{
+.cartao.active .conteudo-cartao{
 transform:rotateY(180deg);
 }
 .pergunta-cartao,
