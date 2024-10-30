@@ -18,7 +18,7 @@ function viracartao (){
 respostaEstaVdisivel = !respostaEstaVisivel;
 cartao.classList.toggle('active', respostaEstaVisivel);
 }
-cartao.addventiListener('click', viracartao);
+cartao.addEventListener('click', viracartao);
 
 
 container.appendChild(cartao);
