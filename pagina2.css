@@ -52,7 +52,7 @@ footer{
 
 .resposta-cartao{
     background-color: var(--cartao-verso);
-    padding: 40%;
+    padding: 40px;
     display: none;
 }
 
